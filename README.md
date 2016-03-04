@@ -1,0 +1,24 @@
+# JavaFiles
+Book challenges
+- The use of import statments + Constractors: in all fles
+- Extends parent class + toString + this refrence: in TeamLeader
+- Instance methods: in Employee
+- Overloaded Constructor: in ProductionWorker
+- if-else-if: in GradeActivity
+- While loop: in EssayDemo
+- Overloaded method: in Essay
+- Array List: phoneNumberDemo
+- If + else-if + comparing strings: in CompareWithoutCase
+- Instance fields: in CourseGrade
+- Throwing Exception: in Employee
+- Handeling Exception: in EmployeeDemo & EmptyStringEmployee
+- equals method + switch + if-else: in Month
+- Arrays + binary search: in PayRoll
+- Sort method: in PayrollDemo
+- Interface: in Relatable
+- Selection sort: in SelectionSortDemo
+- Do While loop: in TestAverage1
+- Decimal Format: in UsingDecimalFormat
+- for loop: in TestScores
+- Running total: in BankAccount
+- Sential Value: in BudgetAnalysis
